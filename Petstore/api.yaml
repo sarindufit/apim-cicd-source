@@ -8,7 +8,7 @@ data:
   context: /v2
   version: 1.0.7
   provider: admin
-  lifeCycleStatus: PUBLISHED
+  lifeCycleStatus: CREATED
   isRevision: false
   revisionId: 0
   type: HTTP
